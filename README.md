@@ -29,7 +29,12 @@ all in one cli
 - [ ] 表格
 - [ ] 操作
 
+## 方案实践
+- [ ] SSR
+- [ ] 微前端
+- [ ] Web Components
+
 ## 技巧
-- [ ] combineReducer在React Hooks中useReducer的应用
+- [ ] combineReducer 在React Hooks中useReducer的应用
 - [ ] Suspense在异步分包加载中的应用
 - [ ] render中间件compose的应用
